@@ -1,0 +1,1 @@
+I kept this folder with earlier drafts of the notebooks in the parent directory. The "final drafts" of the notebooks have been edited to be easy to read but that can actually obscure the "messier" process by which I figure out what I want to actually do before I polish it. So if you're curious you can take a look at the process by which I worked my way up to the final drafts.
