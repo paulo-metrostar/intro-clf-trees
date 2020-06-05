@@ -1,5 +1,6 @@
 # intro-clf-trees
 Introduce and explain multi-class classification with decision trees 🌳
+*Note: this repo is primarily intended for explanatory purposes and prioritizes simplicity over optimality. So, please do reach out when something is unclear or unhelpful*
 
 ---
 
